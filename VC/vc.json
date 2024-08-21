@@ -1,5 +1,5 @@
 {
-    "id": "did:rcw:1046b0d7-b2c8-4aae-be9b-dea6de04affc",
+    "id": "did:rcw:4b47ea93-747c-4f7e-ac94-7b9f0dc55642",
     "type": [
         "VerifiableCredential",
         "LifeInsuranceCredential",
@@ -7,12 +7,12 @@
     ],
     "proof": {
         "type": "Ed25519Signature2020",
-        "created": "2024-08-20T05:46:49Z",
-        "proofValue": "z3KTydDaiT1FxYVjRjqqE5FK22mmawauLqH5zhhip4j3YSCMfd5vNijvi7UBe3Q8YHeKvBgba9KDS9dNL6u2PCqYJ",
+        "created": "2024-08-21T01:45:58Z",
+        "proofValue": "z3tahoZ2LzewnoaypMwWhLqz6iskPWGYbEcHwa4snBFQYYr5YXQe1obtHaCQbT2SBFGMofvDgysEXeqLHYVhnyJGq",
         "proofPurpose": "assertionMethod",
-        "verificationMethod": "did:web:piyush7034.github.io:my-files:DID-Resolve:bb040c79-10b2-4d9d-9384-c34183c3f79c#key-0"
+        "verificationMethod": "did:web:piyush7034.github.io:my-files:DID-Resolve:2c6daf0e-3c4b-4a04-bf7a-22243971cbeb#key-0"
     },
-    "issuer": "did:web:piyush7034.github.io:my-files:DID-Resolve:bb040c79-10b2-4d9d-9384-c34183c3f79c",
+    "issuer": "did:web:piyush7034.github.io:my-files:DID-Resolve:2c6daf0e-3c4b-4a04-bf7a-22243971cbeb",
     "@context": [
         "https://www.w3.org/2018/credentials/v1",
         "https://holashchand.github.io/test_project/insurance-context.json",
@@ -23,10 +23,10 @@
         },
         "https://w3id.org/security/suites/ed25519-2020/v1"
     ],
-    "issuanceDate": "2024-08-20T05:46:47.506Z",
-    "expirationDate": "2024-09-19T05:46:46.925Z",
+    "issuanceDate": "2024-08-21T01:45:57.010Z",
+    "expirationDate": "2024-09-20T01:45:56.743Z",
     "credentialSubject": {
-        "id": "did:jwk:eyJrdHkiOiJSU0EiLCJlIjoiQVFBQiIsInVzZSI6InNpZyIsImtpZCI6IkhIRFNZLVJQb0pCTFRKVktpcXB0QlRScmk0eGN1dWM4bEZha2g3X0tSeU0iLCJhbGciOiJSUzI1NiIsIm4iOiJsMFpuYU9wQXE1Zk42bnRpODdzUF85MUNEMFJwaGNlanZQN0dPSkl6akYzR3N6MzJ5eHlLemJweGtHOXc4ZlptcjhaQW5iV0ZiY1ZxZUx0ek84bllJOGNuZWtsZmFCREVHVFVnUVVaNVlFUjZoOVZfY1NkLThZMDR5YjlELWwtc182ZFo1RDZZTjgzLV9HcnFVTzh2QWYxVlBwVGhpSjJKLUJ6WFlxczBOSHZ5eXVZNDE1MUVjOFdJb3VBbXMxODFVcjFNU1hXMnRwZVVlUFJ2SkN6UnJRWUlDLXMzOHE3amdVdVJJWXpEazFjX1VBV1FXYUZldFdBdUdicC1rMjRQZTVKZW1obkFPNG53cTF5N3JCT1pLT1VDT2E1dzZQbDZweGhiRG5kdDBvTmFkeE5xN0pDa2J4a1JSQkhSSTZUbHgtSTBZek5iVVhHOW9jN0pRQmFMVXcifQ==",
+        "id": "did:jwk:eyJrdHkiOiJSU0EiLCJlIjoiQVFBQiIsInVzZSI6InNpZyIsImtpZCI6IllqLUY1MUJlMmlHWi10M1BIV2tTaU1MeDdTbzhjbTkwT1JvQk1yMUJBaWsiLCJhbGciOiJSUzI1NiIsIm4iOiJqYVY4S21KdENoNEFVbmMtcmxORFE3V1BaM2xSTnVrellZbFRVRk1OdXZ2OEtDV3pkOHNvVWRvenkzZDlLRTNXVUpONVUxeV9IRWZ6VVRjbnRpWEN4cEQ4LXJsd0RScE55RENaWmZJaHRMLTVHUUpxNDB5ZVNRYnJKSGRlV2J0T3JSSVJFaXo2UE91VEIweU1vQWpDRXM1NjlBMjI2SzdlRnhKRGFoalNKWGZnUlVBVmFuMlQ1aEdna0VvbkVvR2hHZWYxVkQ4ZzQzQmVlczRUNGlDR05WQVlwQVZXUVRoSFhYVWtzR2dOWmVpTVFQS2l3VjM4SDZZdW9iMHJQamVyd0g2NW10bkNiVFA5VElmVkFPU01uaC11c05zSUtVamxEWnZTanp4UnZwU2VlVkJlMGEwTk52ZGNZSlQta0dHclhxT0RpRGc4Y2VWeEZmY20xT3d4SVEifQ==",
         "dob": "1968-10-24",
         "email": "abhishek@gmail.com",
         "gender": "Male",
